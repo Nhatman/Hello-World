@@ -4,3 +4,5 @@ One.
 Two.
 
 Now FirstBranchOneFile.txt
+
+Added this line in Master branch.
